@@ -1,5 +1,5 @@
 # Proyecto-Sistema-de-Ventas      
-      I  ntegrantes   
+ I                               ntegrantes  
 Josué Alejandro Diaz Berrios 20171000836          
 Ariel Isaí Turcios García 20131006640   
 Deiby Benigno López Ramírez 20151030486        
